@@ -2,7 +2,7 @@ class Human:
     def __init__(self, name):
         self.name = name
     def answer_question(self, question):
-        print('Очень интересный вопрос! Не знаю.')
+        print('Очень интересный вопрос! Не знаю. тестирование коммита изменений')
     
 class Student(Human):
     def ask_question(self, someone, question):
