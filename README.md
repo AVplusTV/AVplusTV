@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AVplusTV
 - 👀 I’m interested in AI, DS, NN
-- 🌱 I’m currently learning python, sql, api
+- 🌱 I’m currently learning python, sql, data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
